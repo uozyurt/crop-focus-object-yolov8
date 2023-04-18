@@ -7,10 +7,9 @@ This project is useful only for pre-trained yolov8 weights. It requires a weight
 
 Requirements that have to be installed:
 
-ultralytics
-cv2
-os
-imageio
-pytorch
+ultralytics,
+cv2,
+os,
+imageio,
+pytorch,
 time
-
