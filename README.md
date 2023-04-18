@@ -16,7 +16,7 @@ time <br />
 
 ### Here are some input-output examples of the crop function. (0.01 margin used)
 
-
+(Images are resized to display and output images are not in their original cropped sizes.)
 
 Example 1 input: <br />
 <img src="https://user-images.githubusercontent.com/125663669/232750178-3b9ddbae-2a1c-4129-b23a-fd7bdf17bac9.jpeg" width=45% /> <br />
