@@ -14,7 +14,7 @@ imageio <br />
 pytorch <br />
 time <br />
 
-### Here are some input-output examples of the crop function. (0.01 margin used)
+### Here are some input-output examples of the crop function. (each edge has %1 margin added to original detection in the examples.)
 
 (Images are resized to display and output images are not in their original cropped sizes.)
 
